@@ -1,7 +1,6 @@
 # Projeto Leilão-Legal
 
 Bem-vindo ao projeto Leilão-Legal! Este é um repositório onde estamos desenvolvendo um site de leilões.
-Video da Apresentação: https://www.youtube.com/watch?v=Pe8ITqmxoUM
 
 ## Status do Front-end
 
