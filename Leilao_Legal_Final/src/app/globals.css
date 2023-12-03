@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --primary-button-color: rgb(109, 1, 109);
+    --lance-button-color: rgb(255, 0, 43);
+}
