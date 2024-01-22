@@ -1,6 +1,5 @@
 "use client";
 import { Button } from "flowbite-react";
-import produtos_data from "@/data/products.json";
 import { Card} from "flowbite-react";
 import Image from "next/image";
 
